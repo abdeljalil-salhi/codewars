@@ -8,7 +8,7 @@ This is a collection of my solutions to the problems on [CodeWars](https://www.c
 
 ### 8 kyu
 
-- [Jaden Casing Strings](/8kyu_jaden_casing_strings/toJadenCase.js)
+- [Jaden Casing Strings](/8kyu_jaden_casing_strings/solution.js)
 
 ### 7 kyu
 

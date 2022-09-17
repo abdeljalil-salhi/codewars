@@ -16,6 +16,7 @@ This is a collection of my solutions to the problems on [CodeWars](https://www.c
 - [Friend or Foe?](/7kyu_friend_or_foe/solution.js)
 - [Descending Order](/7kyu_descending_order/solution.js)
 - [Even And Odd !](/7kyu_even_and_odd/solution.js)
+- [Categorize New Member](/7kyu_categorize_new_member/solution.js)
 
 ### 6 kyu
 

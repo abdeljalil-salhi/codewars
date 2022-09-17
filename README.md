@@ -15,6 +15,7 @@ This is a collection of my solutions to the problems on [CodeWars](https://www.c
 - [Decode the Morse code](/7kyu_decode_the_morse_code/solution.js)
 - [Friend or Foe?](/7kyu_friend_or_foe/solution.js)
 - [Descending Order](/7kyu_descending_order/solution.js)
+- [Even And Odd !](/7kyu_even_and_odd/solution.js)
 
 ### 6 kyu
 

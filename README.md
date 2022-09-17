@@ -21,3 +21,4 @@ This is a collection of my solutions to the problems on [CodeWars](https://www.c
 ### 6 kyu
 
 - [Unique In Order](/6kyu_unique_in_order/solution.js)
+- [Break camelCase](/6kyu_break_camelcase/solution.js)

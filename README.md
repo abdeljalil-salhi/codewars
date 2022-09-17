@@ -13,3 +13,4 @@ This is a collection of my solutions to the problems on [CodeWars](https://www.c
 ### 7 kyu
 
 - [Decode the Morse code](/7kyu_decode_the_morse_code/decodeMorse.js)
+- [Friend or Foe?](/7kyu_friend_or_foe/solution.js)

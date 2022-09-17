@@ -23,3 +23,4 @@ This is a collection of my solutions to the problems on [CodeWars](https://www.c
 - [Unique In Order](/6kyu_unique_in_order/solution.js)
 - [Break camelCase](/6kyu_break_camelcase/solution.js)
 - [Duplicate Encoder](/6kyu_duplicate_encoder/solution.js)
+- [Which are in?](/6kyu_which_are_in/solution.js)

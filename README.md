@@ -25,3 +25,4 @@ This is a collection of my solutions to the problems on [CodeWars](https://www.c
 - [Duplicate Encoder](/6kyu_duplicate_encoder/solution.js) (Javascript)
 - [Which are in?](/6kyu_which_are_in/solution.js) (Javascript)
 - [Does my number look big in this?](/6kyu_does_my_number_look_big_in_this/solution.ts) (Typescript)
+- [Is a number prime?](/6kyu_is_a_number_prime/solution.js) (Javascript)

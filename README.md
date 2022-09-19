@@ -13,6 +13,7 @@ This is a collection of my solutions to the problems on [CodeWars](https://www.c
 ### 5 kyu
 
 - [First non-repeating character](/5kyu_first_non_repeating_character/solution.js) (JavaScript)
+- [Write out numbers](/5kyu_write_out_numbers/solution.js) (JavaScript)
 
 ### 6 kyu
 

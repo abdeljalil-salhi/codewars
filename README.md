@@ -6,6 +6,10 @@ This is a collection of my solutions to the problems on [CodeWars](https://www.c
 
 ## Solutions
 
+### 4 kyu
+
+- [The observed PIN](/4kyu_the_observed_pin/solution.js) (JavaScript)
+
 ### 5 kyu
 
 - [First non-repeating character](/5kyu_first_non_repeating_character/solution.js) (JavaScript)
